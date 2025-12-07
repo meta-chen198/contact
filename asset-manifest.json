@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0391903c.css",
+    "main.js": "/static/js/main.619c2314.js",
+    "static/js/407.1c4d03ac.chunk.js": "/static/js/407.1c4d03ac.chunk.js",
+    "static/js/706.21ba2775.chunk.js": "/static/js/706.21ba2775.chunk.js",
+    "static/js/668.abe651fa.chunk.js": "/static/js/668.abe651fa.chunk.js",
+    "static/js/138.729e059b.chunk.js": "/static/js/138.729e059b.chunk.js",
+    "static/js/206.cc6a8f8a.chunk.js": "/static/js/206.cc6a8f8a.chunk.js",
+    "static/js/52.963f650a.chunk.js": "/static/js/52.963f650a.chunk.js",
+    "static/js/82.23f55704.chunk.js": "/static/js/82.23f55704.chunk.js",
+    "static/js/239.25b93742.chunk.js": "/static/js/239.25b93742.chunk.js",
+    "static/js/295.70c92279.chunk.js": "/static/js/295.70c92279.chunk.js",
+    "static/media/butcherman-latin-400-normal.woff": "/static/media/butcherman-latin-400-normal.81c6907ab1d824b8072d.woff",
+    "static/media/creepster-latin-400-normal.woff": "/static/media/creepster-latin-400-normal.746c0ca1a8475fbbe7ab.woff",
+    "static/media/butcherman-latin-400-normal.woff2": "/static/media/butcherman-latin-400-normal.7b028e7937ba7e2cc9c2.woff2",
+    "static/media/creepster-latin-400-normal.woff2": "/static/media/creepster-latin-400-normal.15e3de6798883e6c1263.woff2",
+    "static/media/butcherman-latin-ext-400-normal.woff": "/static/media/butcherman-latin-ext-400-normal.a63ca530eeaf011a7c07.woff",
+    "static/media/butcherman-latin-ext-400-normal.woff2": "/static/media/butcherman-latin-ext-400-normal.7c738e0fcd8c18bd11b6.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0391903c.css",
+    "static/js/main.619c2314.js"
+  ]
+}
